@@ -1,0 +1,53 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	font-family: 'Poppins', sans-serif;
+}
+
+html{
+	scroll-behavior: smooth;
+}
+
+.section-padding{
+	padding: 100px 0;
+
+}
+
+.section-header{
+	padding-bottom: 30px;
+}
+
+.navbar-brand{
+	color: #fff !important;
+	text-transform: uppercase;
+	font-weight: bold;
+
+}
+
+
+.nav-area{
+	background: #262626;
+}
+
+.navbar-nav .nav-link{
+	padding-right: 0;
+	padding-left: 0;
+	color: #fff !important;
+	font-weight: bold;
+
+}
+
+.nav-item{
+	color: #fff;
+	padding: 0 10px;
+	text-transform: uppercase;
+
+
+}
+
+
+
+
